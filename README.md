@@ -5,4 +5,5 @@ Jupyter notebook extensions are simple add-ons that extend the functionality of 
 They can be installed with
 
 pip install jupyter_contrib_nbextensions
+
 jupyter contrib nbextensions install
